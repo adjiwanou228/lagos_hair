@@ -1,48 +1,44 @@
-.container {
-  
-  margin:0 auto;
-  text-align: center;
 
-  }
-  
-  /*
-   * Custom translucent site header
-   */
-  
   .site-header {
-    background-color: white;
+    background-color:#F7F7F7;
 
   }
   .site-header a {
-    color: #CAA441;
-    transition: ease-in-out color .15s;
-    justify-content: ;
+    color:#285498 ;
+    padding-top: 25px;
+    font-size: 1,5em;
+    font-family: 'Segoe UI', sans-serif;
   }
   
+.nav-item{
+  padding-right: 50px;
+}
 
-  .taille1{
-    width: 350px;
-    height: 350px;
-    
-    }
-    .taille2{
-      width: 350px;
-      height: 350px;
-    }
-    .taille3{
-        width: 250px;
-        height: 350px;
-        
-    }
+#logo1{
+  height: 25%;
+  width:40% ;
+  padding-top: 50px;
+}
+.image1{
+
+  max-width: 100%;
+  height: auto;
+  padding-top: 50px;
+}
+
+.container2{
+  padding-top: 50px;
+  font-size: 75%;
+  background-color:#CAA441 ;
+  color:#292019 ;
+
+  
+}
+footer{
+  padding-top: 26px;
+}
 
 
-
-
-
-  @media (min-width: 768px) {
-    #taille{
-      font-size: 3.5rem;} 
-    }
     /*
  * Dummy devices (replace them with your own or something else entirely!)
  */
