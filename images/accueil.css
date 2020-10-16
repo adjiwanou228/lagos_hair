@@ -1,0 +1,50 @@
+.container {
+  
+  margin:0 auto;
+  text-align: center;
+
+  }
+  
+  /*
+   * Custom translucent site header
+   */
+  
+  .site-header {
+    background-color: white;
+
+  }
+  .site-header a {
+    color: #CAA441;
+    transition: ease-in-out color .15s;
+    justify-content: ;
+  }
+  
+
+  .taille1{
+    width: 350px;
+    height: 350px;
+    
+    }
+    .taille2{
+      width: 350px;
+      height: 350px;
+    }
+    .taille3{
+        width: 250px;
+        height: 350px;
+        
+    }
+
+
+
+
+
+  @media (min-width: 768px) {
+    #taille{
+      font-size: 3.5rem;} 
+    }
+    /*
+ * Dummy devices (replace them with your own or something else entirely!)
+ */
+
+
