@@ -3,12 +3,12 @@
     background-color:#F7F7F7;
 
   }
-  .site-header a {
+.site-header a{
     color:#285498 ;
     padding-top: 25px;
     font-size: 1,5em;
     font-family: 'Segoe UI', sans-serif;
-  }
+}
   
 .nav-item{
   padding-right: 50px;
@@ -31,9 +31,12 @@
   font-size: 75%;
   background-color:#CAA441 ;
   color:#292019 ;
-
-  
 }
+
+.femme{
+  padding-bottom: 300px;
+}
+
 footer{
   padding-top: 26px;
 }
