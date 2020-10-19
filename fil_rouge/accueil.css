@@ -3,7 +3,8 @@
     background-color:#F7F7F7;
 
   }
-.site-header a{
+.site-header {
+
     color:#285498 ;
     padding-top: 25px;
     font-size: 1,5em;
