@@ -1,12 +1,14 @@
-.site-header{
-  color:#285498 ;
-  background-color: white;
+.nav-link{
+  color: #CAA441 ;
   padding-top: 25px;
   font-size: 1,5em;
   font-family: 'Segoe UI', sans-serif;
   
 }
 
+.site-header{
+  background-color: white;
+}
 .card-title{
     color:#292019 ;
     
@@ -17,7 +19,8 @@
 
 }
 .jumbotron-fluid{
-  padding-top: 10% ; 
+  padding-bottom: 10% ; 
+  padding-top:  10%;
   color:#3D2F19 ;
   
 }
@@ -28,4 +31,8 @@
 .display-4{
   color:#C9A433 ;
   font-style: italic;
+}
+.italik{
+  font-weight: 500;
+  font-size: 15px;
 }

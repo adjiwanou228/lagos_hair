@@ -1,11 +1,13 @@
-.site-header {
-    color:#285498 ;
+.nav-link{
+    color:#CAA441;
     padding-top: 25px;
     font-size: 1,5em;
     font-family: 'Segoe UI', sans-serif;
+    padding-bottom: 10px;
+}
+.site-header{
     background-color: white;
 }
-
 .taille6{
     color:#292019 ;
     font-weight: bold;

@@ -1,45 +1,37 @@
 
   .site-header {
+    padding-top: 50px;
     background-color:#F7F7F7;
 
   }
-.site-header {
-
-    color:#285498 ;
-    padding-top: 25px;
+.nav-link{
+    color:#CAA441;
     font-size: 1,5em;
     font-family: 'Segoe UI', sans-serif;
-}
-  
-.nav-item{
-  padding-right: 50px;
+    
 }
 
+
 #logo1{
+
   height: 25%;
   width:40% ;
-  padding-top: 50px;
 }
 .image1{
 
   max-width: 100%;
   height: auto;
-  padding-top: 50px;
 }
 
 .container2{
-  padding-top: 50px;
   font-size: 75%;
-  background-color:#CAA441 ;
   color:#292019 ;
 }
 
-.femme{
-  padding-bottom: 300px;
-}
+
 
 footer{
-  padding-top: 26px;
+
 }
 
 
