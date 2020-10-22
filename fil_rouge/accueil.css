@@ -1,16 +1,13 @@
 
-  .site-header {
-    padding-top: 50px;
-    background-color:#F7F7F7;
-
-  }
 .nav-link{
-    color:#CAA441;
-    font-size: 1,5em;
-    font-family: 'Segoe UI', sans-serif;
-    
+  color:#C9A433 ;
+  
+  font-size: 1,5em;
+  font-family: 'Segoe UI', sans-serif;
 }
-
+.taille2{
+  background-color:#F7F7F7 ;
+}
 
 #logo1{
 
@@ -23,20 +20,12 @@
   height: auto;
 }
 
-.container2{
-  font-size: 75%;
-  color:#292019 ;
+
+.taille{
+  width: 100%;
+  height: 500px;
 }
 
 
-
-footer{
-
-}
-
-
-    /*
- * Dummy devices (replace them with your own or something else entirely!)
- */
 
 
