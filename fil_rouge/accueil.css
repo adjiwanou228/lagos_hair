@@ -1,5 +1,5 @@
 
-.nav-link{
+{
   color:#C9A433 ;
   
   font-size: 1,5em;
@@ -9,10 +9,23 @@
   background-color:#F7F7F7 ;
 }
 
+
 #logo1{
 
-  height: 25%;
-  width:40% ;
+  height: auto;
+  width:100% ;
+  padding-bottom: 50px;
+  padding-top: 100px;
+}
+.color{
+  color: #C9A433;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar-brand{
+  color:#3D2F19;
+  font-weight: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .image1{
 
@@ -20,12 +33,16 @@
   height: auto;
 }
 
-
 .taille{
   width: 100%;
   height: 500px;
 }
 
+.couleur{
+  color:#3D2F19 ;
+  padding-top: 10%;
+}
 
-
-
+.card-text{
+  color:#C9A433 ;
+}
